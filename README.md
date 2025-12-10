@@ -1,8 +1,8 @@
-# **📌 Project Overview **
+# **📌 Project Overview**
 
 The Sales Analytics & Performance Monitoring Dashboard is an interactive Excel dashboard designed to analyze product-wise revenue, track salesperson performance, and monitor overall business sales trends. The dashboard uses pivot tables, charts, and slicers to convert raw sales data into meaningful insights that support strategic decision-making.
 
-## **🔍 Key Features **
+## **🔍 Key Features**
 
 KPIs: Total Sales, Units Sold, Top Products, Top Salespersons
 
