@@ -31,11 +31,13 @@ Dashboard Layout & Visualization
 Slicers for Interactive Filtering
 
 ## **📁 Project Structure**
+```
 📂 Sales-Analytics-Performance-Monitoring-Dashboard
 │── Data Sheet
 │── Pivot Tables
 │── Dashboard Sheet
 │── README.md
+```
 
 ## **🎯 Key Insights**
 
